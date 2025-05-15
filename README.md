@@ -1,1 +1,0 @@
-# sepit_project
