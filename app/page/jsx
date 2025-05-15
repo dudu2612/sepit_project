@@ -1,0 +1,8 @@
+// app/page.jsx
+export default function Home() {
+  return (
+    <div className="p-8 text-center text-xl font-bold">
+      Halo Juniper! Selamat datang di dashboard kamu.
+    </div>
+  )
+}
